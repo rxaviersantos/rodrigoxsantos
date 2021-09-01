@@ -13,7 +13,7 @@
 
 - 👨🏽‍💻 I’m interested in Front-End
 - 🌱 I'm currently studying JavaScript, HTML, CSS
-- ✨ All of my projects are available at https://github.com/rodrigoxsantos
+- ✨ All of my projects are available at [github.com/rodrigoxsantos](https://github.com/rodrigoxsantos)
 <p />
 
 *************
