@@ -1,23 +1,29 @@
-##  Hi, I’m Rodrigo 
+###  Hello! ✨
+
+
+
+##### About me
+
+My name is Rodrigo Xavier (Brazil), I'm looking to become a developer, currently studying the programming language
+Javascript, HTML and CSS.
+I am passionate about technologies, in my free time I like to play video games 🎮 and soccer ⚽, practice physical activity (gym ⛹), read books 📚, watch movies 📼 and series 🎬.
+
+
+<p />
+
+###### 🧠 "Great minds have purposes; others have desires"
 
 ### 💬 Contact Me 
-[![Twitter Badge](https://img.shields.io/badge/-rodrigoxs_-1193cc?style=flat-square&labelColor=1193cc&logo=twitter&logoColor=white&link=https://twitter.com/rodrigoxs_)](https://twitter.com/rodrigoxs_) 
+[![Twitter Badge](https://img.shields.io/badge/-rodrigoxaviers_-1193cc?style=flat-square&labelColor=1193cc&logo=twitter&logoColor=white&link=https://twitter.com/rodrigoxs_)](https://twitter.com/rodrigoxs_) 
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigoxsantos%20-1163cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoxsantos/)](https://www.linkedin.com/in/rodrigoxsantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-rodrigomxsantos@gmail.com-D80339?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigomxsantos@gmail.com)](mailto:rodrigomxsantos@gmail.com)
 
 
-###### 🧠 "Great minds have purposes; others have desires"
-
-### About me
-
-
-- 👨🏽‍💻 I’m interested in Front-End
-- 🌱 I'm currently studying JavaScript, HTML, CSS
-- ✨ All of my projects are available at [github.com/rodrigoxsantos](https://github.com/rodrigoxsantos)
-<p />
 
 *************
 <p />
+
+
 
 
 
@@ -41,30 +47,22 @@
 </div>
   
 ### 🛠 Technologies & Tools
-  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+    
   
 ##
-   <p /> 
-<img align="right" style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/chandan-reddy-k/chandan-reddy-k/master/assets/coding.gif">
-<p />
+
 
 ##  
 ## 
-## 
-##   
-##   
-##   
-##   
-##   
-## 
-##   
+
+
   
- <h3 align="">Appreciate your feedbacks <img src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" width="60px"></h3>
+
 
 <!---
 rodrigoxsantos/rodrigoxsantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
